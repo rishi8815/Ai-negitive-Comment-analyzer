@@ -222,4 +222,4 @@ This project is for educational and content moderation purposes. Comply with Ins
 
 ---
 
-**Built with ❤️ by [rishi8815](https://github.com/rishi8815)**
+**Built with ❤️ by SHUBHANSHI**
